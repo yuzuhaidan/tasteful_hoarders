@@ -1,0 +1,137 @@
+[
+  {
+    "username": "template",
+    "series": [
+      {
+        "name": "0SKULLPANDA L'impressionisme",
+        "colors": {
+          "Teakwood": 0,
+          "Blossom": 0,
+          "Pond": 0,
+          "Lightning": 0,
+          "Windflower": 0,
+          "Dawn": 0,
+          "Mist": 0,
+          "Dew": 0,
+          "Amber": 0
+        }
+      },
+      {
+        "name": "THE MONSTERS Exciting Macaron",
+        "colors": {
+          "Soymilk": 0,
+          "Lychee Berry": 0,
+          "Green Grape": 0,
+          "Sea Salt Coconut": 0,
+          "Toffee": 0,
+          "Sesame Bean": 0,
+          "24 Karat Gold": 0,
+          "Dubai Choco Matcha Latte": 0
+        }
+      },
+      {
+        "name": "Tamagotchi Connection 2024 Japan Replicas",
+        "colors": {
+          "Melon Soda": 0,
+          "Pearl Flower": 0,
+          "Pink Glitter": 0,
+          "Water Color Glitter": 0,
+          "Strawberry Pearl Milk": 0,
+          "OJ": 0,
+          "White Clover": 0,
+          "Pearl Milk Tea": 0
+        }
+      }
+    ]
+  },
+  {
+    "username": "jo",
+    "series": [
+      {
+        "name": "0SKULLPANDA L'impressionisme",
+        "colors": {
+          "Teakwood": 0,
+          "Blossom": 0,
+          "Pond": 1,
+          "Lightning": 0,
+          "Windflower": 0,
+          "Dawn": 1,
+          "Mist": 0,
+          "Dew": 0,
+          "Amber": 0
+        }
+      },
+      {
+        "name": "THE MONSTERS Exciting Macaron",
+        "colors": {
+          "Soymilk": 1,
+          "Lychee Berry": 0,
+          "Green Grape": 0,
+          "Sea Salt Coconut": 0,
+          "Toffee": 1,
+          "Sesame Bean": 0,
+          "24 Karat Gold": 1,
+          "Dubai Choco Matcha Latte": 0
+        }
+      },
+      {
+        "name": "Tamagotchi Connection 2024 Japan Replicas",
+        "colors": {
+          "Melon Soda": 1,
+          "Pearl Flower": 0,
+          "Pink Glitter": 0,
+          "Water Color Glitter": 1,
+          "Strawberry Pearl Milk": 1,
+          "OJ": 0,
+          "White Clover": 0,
+          "Pearl Milk Tea": 1
+        }
+      }
+    ]
+  },
+  {
+    "username": "template",
+    "series": [
+      {
+        "name": "0SKULLPANDA L'impressionisme",
+        "colors": {
+          "Teakwood": 0,
+          "Blossom": 0,
+          "Pond": 0,
+          "Lightning": 0,
+          "Windflower": 0,
+          "Dawn": 0,
+          "Mist": 0,
+          "Dew": 0,
+          "Amber": 0
+        }
+      },
+      {
+        "name": "THE MONSTERS Exciting Macaron",
+        "colors": {
+          "Soymilk": 0,
+          "Lychee Berry": 0,
+          "Green Grape": 0,
+          "Sea Salt Coconut": 0,
+          "Toffee": 0,
+          "Sesame Bean": 0,
+          "24 Karat Gold": 0,
+          "Dubai Choco Matcha Latte": 0
+        }
+      },
+      {
+        "name": "Tamagotchi Connection 2024 Japan Replicas",
+        "colors": {
+          "Melon Soda": 0,
+          "Pearl Flower": 0,
+          "Pink Glitter": 0,
+          "Water Color Glitter": 0,
+          "Strawberry Pearl Milk": 0,
+          "OJ": 0,
+          "White Clover": 0,
+          "Pearl Milk Tea": 0
+        }
+      }
+    ]
+  }
+]
